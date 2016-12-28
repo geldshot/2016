@@ -1,0 +1,6 @@
+c:\users\mibag\onedrive\documents\visual studio 2015\Projects\2016\2016\bin\Debug\2016.exe.config
+c:\users\mibag\onedrive\documents\visual studio 2015\Projects\2016\2016\bin\Debug\2016.exe
+c:\users\mibag\onedrive\documents\visual studio 2015\Projects\2016\2016\bin\Debug\2016.pdb
+c:\users\mibag\onedrive\documents\visual studio 2015\Projects\2016\2016\obj\Debug\2016.csprojResolveAssemblyReference.cache
+c:\users\mibag\onedrive\documents\visual studio 2015\Projects\2016\2016\obj\Debug\2016.exe
+c:\users\mibag\onedrive\documents\visual studio 2015\Projects\2016\2016\obj\Debug\2016.pdb
